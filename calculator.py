@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 
 # Токен бота и ID администратора
 BOT_TOKEN = "8203257140:AAEhdMPYdUJQby8AdmJ-tl5ino5B6Ri2YPc"
-ADMIN_ID = 
+ADMIN_ID = "1349566013"
 
 
 # Определяем состояния FSM для пошагового ввода
